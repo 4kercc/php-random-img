@@ -1,5 +1,7 @@
 # PHP Random Image
 this is a simple script to select images randomly from the folder you set.
+# Installation
+just put all the files into your web folder (make sure you have PHP environment installed), then you can add your favorite images into `imgs` folder if you didn't change the default config.
 # Configure the script
 the default image folder is named as `imgs` if you want to configure the default seeting, please refer to `config.inc.php` to modifiy your seetings.
 # Supported arguments:

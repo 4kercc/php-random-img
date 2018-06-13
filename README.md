@@ -1,5 +1,5 @@
 # PHP Random Image
-this is a simple script to select images randomly from the folder you set.
+this is a simple script to select images randomly from the folder you set, you can use it on your blog background, or your personal site, or anything you like =v=
 # Installation
 just put all the files into your web folder (make sure you have PHP environment installed), then you can add your favorite images into `imgs` folder if you didn't change the default config.
 # Configure the script
